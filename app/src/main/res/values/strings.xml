@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AgricultureApplication</string>
+
+    <string-array name="crops">
+        <item>Cotton</item>
+        <item>Wheat</item>
+        <item>Rice</item>
+        <item>Maize</item>
+        <item>Barley</item>
+        <item>Sugarcane</item>
+        <item>Bajra</item>
+        <item>Jowar</item>
+    </string-array>
+    <string name="oneLeaf">Single Leaf</string>
+    <string name="multipleLeaf">Ten Leaves</string>
+    <string name="submit">Submit</string>
+    <string name="selectCrop">Select Crop</string>
+
+</resources>
